@@ -1,2 +1,3 @@
 # odin-recipes
-First Odin Project- Testing my HTML Skills
+First Odin Project
+This project tested my basic HTML skills 
